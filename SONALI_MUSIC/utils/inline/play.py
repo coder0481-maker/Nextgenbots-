@@ -81,7 +81,7 @@ def stream_markup_timer(_, chat_id, played, dur):
     def stream_markup(_, chat_id):
 
         def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
-    buttons = [
+    
         [
             InlineKeyboardButton(
                 text=_["P_B_1"],
