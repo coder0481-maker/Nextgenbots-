@@ -11,7 +11,7 @@ from typing import Union, Optional
 
 EVAA = [
     [
-        InlineKeyboardButton(text="✙ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ✙", url=f"https://t.me/Candyy_music_robot?startgroup=true"),
+        InlineKeyboardButton(text="✙ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ✙", url=f"https://t.me/RadhaXbot?startgroup=true"),
     ],
 ]
 
@@ -55,8 +55,8 @@ async def get_userinfo_img(
 
 # --------------------------------------------------------------------------------- #
 
-bg_path = "SONALI_MUSIC/assets/SonaINFO.png"
-font_path = "SONALI_MUSIC/assets/hiroko.ttf"
+bg_path = "RadhaXbot/assets/SonaINFO.png"
+font_path = "RadhaXbot/assets/hiroko.ttf"
 
 #
 # --------------------------------------------------------------------------------- #
@@ -73,7 +73,7 @@ INFO_TEXT = """
 ❍ ᴅᴄ ɪᴅ ▷ {}
 ❍ ʙɪᴏ ▷ {}
 
-❖ ϻᴧᴅє ʙʏ  ➛ [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/lll_BADNAM_BABY_lll)
+❖ ϻᴧᴅє ʙʏ  ➛ [𝙰𝙽𝙾𝙽𝚈𝙼𝙾𝚄𝚂 💞](https://t.me/WHITE_DEVIL_BANNER)
 ▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
 
 """
