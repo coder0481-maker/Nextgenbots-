@@ -382,6 +382,7 @@ class Helper(object):
 
 ❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
 '''
+    
     HELP_PROMOTION = '''
 **─────────────────────────
 ㅤㅤ❖ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση ᴧᴠᴧɪʟᴧʙʟє ❖
